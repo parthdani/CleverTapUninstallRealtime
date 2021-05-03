@@ -1,1 +1,2 @@
 # -CleverTapUninstall
+# CleverTapUninstallRealtime
